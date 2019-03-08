@@ -16,9 +16,7 @@ Resources
 
 * [fetch] (//https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
-
 *[redirect in flask] (https://stackoverflow.com/questions/14343812/redirecting-to-url-in-flask)
-
 
 *[jsonify] (http://flask.pocoo.org/docs/1.0/api/#flask.json.jsonify)
 
